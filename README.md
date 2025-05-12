@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luis Felipe Prieto
 
-<!--
-**LipePrieto/LipePrieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Bocaina - SP  
+🎓 Técnico em Informática (em andamento) pelo SENAC Jaú  
+📦 +10 anos de experiência na área administrativa (Faturamento, Notas Fiscais e Boletos)  
+📊 Certificado em Power BI e Excel Avançado  
+💡 Foco em transição de carreira para Desenvolvimento de Sistemas  
+🎯 Estudando Lógica de Programação, Python e Git/GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conhecimentos atuais
+
+- Lógica de Programação (Visualg)
+- Power BI (criação de dashboards e relatórios)
+- Excel Avançado
+- Python (iniciante)
+- Conceitos de banco de dados
+- Git e GitHub (aprendendo)
+
+---
+
+## 🚀 Em busca de oportunidades
+
+Estou me preparando para atuar como desenvolvedor iniciante (back-end ou full stack), com base sólida em lógica e interesse constante por tecnologia.  
+Meu foco atual é aprender boas práticas e construir projetos reais que resolvam problemas.
+
+---
