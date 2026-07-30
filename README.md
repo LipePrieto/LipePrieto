@@ -4,12 +4,15 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35D0BA&center=true&vCenter=true&width=750&lines=Do+faturamento+ao+desenvolvimento+de+sistemas;Transformando+rotinas+em+solu%C3%A7%C3%B5es;Desenvolvendo+projetos+com+Python;Criando+sites%2C+sistemas+e+automa%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo"
-  alt="Texto animado"
+  alt="Apresentação animada"
 />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=LipePrieto&label=VISITAS+NO+PERFIL&color=35D0BA&style=for-the-badge" alt="Visualizações do perfil"/>
+<img
+  src="https://komarev.com/ghpvc/?username=LipePrieto&label=VISITAS+NO+PERFIL&color=35D0BA&style=for-the-badge"
+  alt="Visualizações do perfil"
+/>
 
 </div>
 
@@ -19,9 +22,9 @@
 
 Olá! Meu nome é **Luis Felipe Prieto**, sou de **Bocaina, São Paulo**, e tenho grande interesse por tecnologia, desenvolvimento de sistemas e resolução de problemas.
 
-Trabalho desde **2014 na área de faturamento e rotinas administrativas**, atuando com emissão de notas fiscais, boletos, relatórios, planilhas, documentos fiscais e suporte básico de informática.
+Trabalho desde **2014 na área de faturamento e processos administrativos**, atuando com notas fiscais, boletos, relatórios, planilhas, documentos fiscais e suporte básico de informática.
 
-Depois de anos trabalhando com processos administrativos, comecei a estudar programação com o objetivo de transformar tarefas repetitivas em sistemas, ferramentas e automações.
+Depois de anos lidando com processos reais, comecei a estudar programação com o objetivo de transformar tarefas repetitivas em **sistemas, ferramentas e automações**.
 
 Atualmente estou construindo projetos próprios e me preparando para realizar minha transição profissional para a área de tecnologia.
 
@@ -32,14 +35,27 @@ Atualmente estou construindo projetos próprios e me preparando para realizar mi
 ```python
 lipe = {
     "nome": "Luis Felipe Prieto",
-    "localização": "Bocaina - SP",
-    "experiência": "Mais de 12 anos na área administrativa",
+    "localização": "Bocaina, SP, Brasil",
+
+    "experiência": {
+        "área": "Faturamento e processos administrativos",
+        "desde": 2014,
+        "atividades": [
+            "NF-e, CT-e e MDF-e",
+            "Boletos e faturamento",
+            "Relatórios e planilhas",
+            "Organização de processos",
+            "Suporte básico de informática"
+        ]
+    },
+
     "formação": [
         "Técnico em Informática",
         "Técnico em Logística",
         "Excel Avançado",
         "Power BI"
     ],
+
     "tecnologias": [
         "Python",
         "Tkinter",
@@ -50,10 +66,12 @@ lipe = {
         "Git",
         "GitHub"
     ],
+
     "objetivo": "Trabalhar com desenvolvimento de sistemas",
+
     "interesses": [
         "Automação de processos",
-        "Desenvolvimento desktop",
+        "Aplicações desktop",
         "Desenvolvimento web",
         "Sistemas que resolvem problemas reais"
     ]
@@ -66,10 +84,10 @@ lipe = {
 
 <div align="center">
 
-| Experiência administrativa | Tecnologia | Próximo objetivo |
+| Experiência | Tecnologia | Objetivo |
 |:---:|:---:|:---:|
-| Faturamento, notas fiscais, boletos, relatórios e planilhas | Desenvolvimento com Python, bancos de dados e desenvolvimento web | Migrar profissionalmente para desenvolvimento de sistemas |
-| Mais de 12 anos trabalhando com processos reais | Projetos desktop, sites, automações e ferramentas próprias | Trabalhar criando soluções úteis para empresas e pessoas |
+| Mais de 12 anos trabalhando com faturamento e processos administrativos | Desenvolvimento com Python, banco de dados e tecnologias web | Migrar profissionalmente para desenvolvimento de sistemas |
+| Conhecimento de problemas e necessidades reais de empresas | Criação de sistemas, sites, ferramentas e automações | Desenvolver soluções úteis para empresas e pessoas |
 
 </div>
 
@@ -81,7 +99,10 @@ lipe = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,vscode" alt="Tecnologias utilizadas"/>
+<img
+  src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,git,github,vscode"
+  alt="Tecnologias e ferramentas"
+/>
 
 <br><br>
 
@@ -116,17 +137,17 @@ lipe = {
 
 ## 💼 Experiência profissional
 
-Tenho experiência com:
+Minha experiência profissional inclui:
 
 - Emissão de **NF-e, CT-e e MDF-e**
 - Emissão e controle de boletos
 - Faturamento de produtos e mercadorias
-- Relatórios e controles em Excel
+- Criação de relatórios e controles em Excel
 - Criação e impressão de etiquetas
 - Organização de documentos fiscais
 - Rotinas administrativas
 - Suporte básico de informática
-- Identificação e resolução de problemas em sistemas
+- Identificação de problemas em sistemas
 - Melhoria e organização de processos internos
 
 Essa experiência me ajuda a desenvolver projetos pensando não apenas no código, mas também na necessidade real de quem utilizará o sistema.
@@ -135,16 +156,14 @@ Essa experiência me ajuda a desenvolver projetos pensando não apenas no códig
 
 ## 🚀 O que estou desenvolvendo
 
-Atualmente estou praticando e desenvolvendo projetos relacionados a:
-
 ```text
 ▸ Aplicações desktop com Python e Tkinter
-▸ Sistemas com banco de dados SQLite
+▸ Sistemas utilizando banco de dados SQLite
 ▸ Automação de tarefas administrativas
 ▸ Geração de relatórios e documentos
 ▸ Manipulação de dados com Python e Pandas
 ▸ Sites responsivos com HTML, CSS e JavaScript
-▸ Interfaces gráficas para facilitar processos
+▸ Interfaces gráficas simples e intuitivas
 ▸ Versionamento de projetos com Git e GitHub
 ```
 
@@ -152,85 +171,74 @@ Atualmente estou praticando e desenvolvendo projetos relacionados a:
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/LipePrieto/jogo-da-velha-tkinter">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LipePrieto&repo=jogo-da-velha-tkinter&theme=github_dark&hide_border=true&border_radius=12"
-    alt="Jogo da Velha em Python"
-  />
-</a>
-
-<a href="https://github.com/LipePrieto/cardapio-avenida-pub">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LipePrieto&repo=cardapio-avenida-pub&theme=github_dark&hide_border=true&border_radius=12"
-    alt="Cardápio Avenida Pub"
-  />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/LipePrieto/PowerlavaCar">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LipePrieto&repo=PowerlavaCar&theme=github_dark&hide_border=true&border_radius=12"
-    alt="Power Lava Car"
-  />
-</a>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=LipePrieto&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePrieto&layout=compact&theme=github_dark&hide_border=true&border_radius=12&locale=pt-br&langs_count=8"
-  alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=LipePrieto&theme=github-dark-blue&hide_border=true&border_radius=12&locale=pt_BR"
-  alt="Sequência de contribuições"
-/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LipePrieto&bg_color=0D1117&color=35D0BA&line=35D0BA&point=FFFFFF&area=true&hide_border=true"
-  alt="Gráfico de atividade"
-/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Jogo da Velha</h3>
+      <p>
+        Jogo da velha desenvolvido em Python utilizando uma interface gráfica com Tkinter.
+      </p>
+      <p align="center">
+        <code>Python</code>
+        <code>Tkinter</code>
+        <code>Desktop</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/LipePrieto/jogo-da-velha-tkinter">
+          <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-164E63?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍻 Cardápio Avenida Pub</h3>
+      <p>
+        Cardápio digital responsivo criado para um estabelecimento real, com acesso por QR Code.
+      </p>
+      <p align="center">
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/LipePrieto/cardapio-avenida-pub">
+          <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-164E63?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Power Lava Car</h3>
+      <p>
+        Site responsivo desenvolvido para apresentação dos serviços de um lava-car.
+      </p>
+      <p align="center">
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/LipePrieto/PowerLavaCar">
+          <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-164E63?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧾 Próximo projeto</h3>
+      <p>
+        Sistema para controle de faturamento, clientes, pedidos, relatórios e processos administrativos.
+      </p>
+      <p align="center">
+        <code>Python</code>
+        <code>SQLite</code>
+        <code>Tkinter</code>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-0D1117?style=for-the-badge&logo=python&logoColor=35D0BA"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -238,10 +246,11 @@ Atualmente estou praticando e desenvolvendo projetos relacionados a:
 
 - Aprimorar meus conhecimentos em Python
 - Desenvolver sistemas desktop mais completos
-- Melhorar meus conhecimentos em banco de dados
-- Evoluir em HTML, CSS e JavaScript
+- Evoluir em banco de dados e SQLite
+- Melhorar meus conhecimentos em HTML, CSS e JavaScript
 - Aprender boas práticas de programação
 - Construir um portfólio com projetos úteis
+- Criar ferramentas para automatizar processos administrativos
 - Conquistar minha primeira oportunidade profissional na área de tecnologia
 
 ---
@@ -257,7 +266,7 @@ Não quero desenvolver apenas projetos de estudo. Quero criar soluções que pos
 - Reduzir tarefas repetitivas
 - Facilitar rotinas administrativas
 - Evitar erros em processos
-- Resolver problemas do dia a dia
+- Resolver problemas reais do dia a dia
 
 ---
 
@@ -274,6 +283,22 @@ Não quero desenvolver apenas projetos de estudo. Quero criar soluções que pos
 
 ---
 
+## 🤝 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luisfelipeprieto1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis_Felipe_Prieto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LipePrieto">
+  <img src="https://img.shields.io/badge/GitHub-LipePrieto-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 💬 Minha filosofia
@@ -282,8 +307,8 @@ Não quero desenvolver apenas projetos de estudo. Quero criar soluções que pos
 
 <br>
 
-<a href="https://github.com/LipePrieto">
-  <img src="https://img.shields.io/badge/Conheça_meus_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=35D0BA"/>
+<a href="https://github.com/LipePrieto?tab=repositories">
+  <img src="https://img.shields.io/badge/CONHEÇA_MEUS_PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=35D0BA"/>
 </a>
 
 </div>
