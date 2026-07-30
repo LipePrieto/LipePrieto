@@ -1,28 +1,39 @@
-# 👋 Olá! Eu sou o Luis Felipe Prieto
+<div align="center">
 
-📍 Bocaina - SP  
-🎓 Técnico em Informática (em andamento) pelo SENAC Jaú  
-📦 +10 anos de experiência na área administrativa (Faturamento, Notas Fiscais e Boletos)  
-📊 Certificado em Power BI e Excel Avançado  
-💡 Foco em transição de carreira para Desenvolvimento de Sistemas  
-🎯 Estudando Lógica de Programação, Python e Git/GitHub
+# 👨‍💻 Luis Felipe Prieto
 
----
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=35D0BA&center=true&vCenter=true&width=700&lines=Do+faturamento+ao+desenvolvimento;Transformando+rotinas+em+sistemas;Python+%7C+Automa%C3%A7%C3%A3o+%7C+Desenvolvimento+Web;Construindo+projetos+que+resolvem+problemas"
+  alt="Texto animado"
+/>
 
-## 🧠 Conhecimentos atuais
+<br>
 
-- Lógica de Programação (Visualg)
-- Power BI (criação de dashboards e relatórios)
-- Excel Avançado
-- Python (iniciante)
-- Conceitos de banco de dados
-- Git e GitHub (aprendendo)
+![Localização](https://img.shields.io/badge/Bocaina--SP-0D1117?style=for-the-badge&logo=googlemaps&logoColor=35D0BA)
+![Foco](https://img.shields.io/badge/Desenvolvimento_de_Sistemas-0D1117?style=for-the-badge&logo=code&logoColor=35D0BA)
+![Perfil](https://img.shields.io/badge/Aprendizado_contínuo-0D1117?style=for-the-badge&logo=github&logoColor=35D0BA)
+
+</div>
 
 ---
 
-## 🚀 Em busca de oportunidades
+## `> quem_sou_eu`
 
-Estou me preparando para atuar como desenvolvedor iniciante (back-end ou full stack), com base sólida em lógica e interesse constante por tecnologia.  
-Meu foco atual é aprender boas práticas e construir projetos reais que resolvam problemas.
+```yaml
+nome: Luis Felipe Prieto
+localização: Bocaina - SP
 
----
+experiência:
+  - Faturamento e rotinas administrativas
+  - Emissão de notas fiscais e boletos
+  - Excel, relatórios e resolução de problemas
+
+formação:
+  - Técnico em Informática
+  - Técnico em Logística
+  - Excel Avançado
+  - Power BI
+
+objetivo:
+  - Migrar profissionalmente para Desenvolvimento de Sistemas
+  - Criar aplicações e automações úteis
