@@ -26,7 +26,7 @@ Trabalho desde **2014 na área de faturamento e processos administrativos**, atu
 
 Depois de anos lidando com processos reais, comecei a estudar programação com o objetivo de transformar tarefas repetitivas em **sistemas, ferramentas e automações**.
 
-Atualmente estou construindo projetos próprios e me preparando para realizar minha transição profissional para a área de tecnologia.
+Atualmente estou desenvolvendo projetos próprios e me preparando para realizar minha transição profissional para a área de tecnologia.
 
 ---
 
@@ -59,6 +59,7 @@ lipe = {
     "tecnologias": [
         "Python",
         "Tkinter",
+        "CustomTkinter",
         "HTML",
         "CSS",
         "JavaScript",
@@ -108,6 +109,7 @@ lipe = {
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Tkinter-0D1117?style=for-the-badge&logo=python&logoColor=35D0BA"/>
+<img src="https://img.shields.io/badge/CustomTkinter-0D1117?style=for-the-badge&logo=python&logoColor=35D0BA"/>
 <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=03A9F4"/>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
@@ -157,7 +159,7 @@ Essa experiência me ajuda a desenvolver projetos pensando não apenas no códig
 ## 🚀 O que estou desenvolvendo
 
 ```text
-▸ Aplicações desktop com Python e Tkinter
+▸ Aplicações desktop com Python, Tkinter e CustomTkinter
 ▸ Sistemas utilizando banco de dados SQLite
 ▸ Automação de tarefas administrativas
 ▸ Geração de relatórios e documentos
@@ -174,17 +176,18 @@ Essa experiência me ajuda a desenvolver projetos pensando não apenas no códig
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Jogo da Velha</h3>
+      <h3 align="center">🔎 Consultador de CNPJ Prieto</h3>
       <p>
-        Jogo da velha desenvolvido em Python utilizando uma interface gráfica com Tkinter.
+        Aplicativo desktop em Python para consulta e organização de dados empresariais por CNPJ, com exportação em TXT e PDF.
       </p>
       <p align="center">
         <code>Python</code>
-        <code>Tkinter</code>
+        <code>CustomTkinter</code>
+        <code>API</code>
         <code>Desktop</code>
       </p>
       <p align="center">
-        <a href="https://github.com/LipePrieto/jogo-da-velha-tkinter">
+        <a href="https://github.com/LipePrieto/consultador-cnpj-prieto">
           <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-164E63?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -224,17 +227,19 @@ Essa experiência me ajuda a desenvolver projetos pensando não apenas no códig
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧾 Próximo projeto</h3>
+      <h3 align="center">🎮 Jogo da Velha</h3>
       <p>
-        Sistema para controle de faturamento, clientes, pedidos, relatórios e processos administrativos.
+        Jogo da velha desenvolvido em Python utilizando uma interface gráfica com Tkinter.
       </p>
       <p align="center">
         <code>Python</code>
-        <code>SQLite</code>
         <code>Tkinter</code>
+        <code>Desktop</code>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-0D1117?style=for-the-badge&logo=python&logoColor=35D0BA"/>
+        <a href="https://github.com/LipePrieto/jogo-da-velha-tkinter">
+          <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-164E63?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -292,7 +297,7 @@ Não quero desenvolver apenas projetos de estudo. Quero criar soluções que pos
 </a>
 
 <a href="https://github.com/LipePrieto">
-  <img src="https://img.shields.io/badge/GitHub-LipePrieto-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-LipePrieto-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </div>
