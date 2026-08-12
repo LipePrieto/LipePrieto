@@ -7,15 +7,6 @@
   alt="Apresentação animada"
 />
 
-<br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=LipePrieto&label=VISITAS+NO+PERFIL&color=35D0BA&style=for-the-badge"
-  alt="Visualizações do perfil"
-/>
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
